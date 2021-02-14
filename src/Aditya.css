@@ -1,0 +1,29 @@
+
+.red
+{
+  background-color:red;  
+  color: white;
+  margin: 40px;
+}
+.green
+{
+  background-color: green;  
+  color: white;
+  margin: 40px;
+}
+
+
+.myDiv
+{
+background-color: lightblue;
+margin: 30px;
+height: 400px;
+width: 400px;
+}
+
+.my-align
+{
+text-align: center;
+width: 100px;
+height: 100px;
+}
